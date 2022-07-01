@@ -10,3 +10,8 @@ TENTANG PROJECT:
                      -Tools:
                      -Vscode
                      -Git 
+                    
+-Cara Memulai :
+                  -Terdapat dua opsi, yaitu dari sisi user dan                     admin/panitia
+                  -Pengguna ataupun user bisa memakai untuk                         membayar sejumlah besaran nominal terhadap                       zakat yang sudah ditentukan.
+
