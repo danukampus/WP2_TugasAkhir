@@ -1,0 +1,23 @@
+.DS_Store
+node_modules/
+
+# Logs
+*.log
+
+# Test files
+test/e2e/reports
+test/e2e/screenshots
+
+# Built files
+dist/*
+
+# Coverage files
+test/unit/coverage
+.coveralls.yml
+
+# Config and settings directory from PhpStorm/WebStorm
+.idea
+
+# Floobits files
+.floo
+.flooignore
